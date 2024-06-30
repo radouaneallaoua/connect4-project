@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1683921156 source:c:\users\asus\desktop\puissance4_12_05\joueur.cpp
+	<iostream>
+	"Joueur.h"
+
+1683920921 c:\users\asus\desktop\puissance4_12_05\joueur.h
+
+1683924862 source:c:\users\asus\desktop\puissance4_12_05\main.cpp
+	<iostream>
+	"JoueurIntelligent.h"
+
+1683923564 source:c:\users\asus\desktop\puissance4_12_05\plateau.cpp
+	<iostream>
+	"Plateau.h"
+	<cmath>
+	<vector>
+
+1683923261 c:\users\asus\desktop\puissance4_12_05\plateau.h
+	"Joueur.h"
+
+1683924752 source:c:\users\asus\desktop\puissance4_12_05\joueurintelligent.cpp
+	<iostream>
+	"JoueurIntelligent.h"
+	<vector>
+	<list>
+	<cmath>
+	<algorithm>
+
+1683924104 c:\users\asus\desktop\puissance4_12_05\joueurintelligent.h
+	"Joueur.h"
+	"Plateau.h"
+
+1683921158 source:c:\users\dell\onedrive\bureau\puissance4_12_05\joueur.cpp
+	<iostream>
+	"Joueur.h"
+
+1683920922 c:\users\dell\onedrive\bureau\puissance4_12_05\joueur.h
+
+1684177127 source:c:\users\dell\onedrive\bureau\puissance4_12_05\joueurintelligent.cpp
+	<iostream>
+	"JoueurIntelligent.h"
+	<vector>
+	<list>
+	<cmath>
+	<algorithm>
+
+1684185586 c:\users\dell\onedrive\bureau\puissance4_12_05\joueurintelligent.h
+	"Joueur.h"
+	"Plateau.h"
+
+1683923262 c:\users\dell\onedrive\bureau\puissance4_12_05\plateau.h
+	"Joueur.h"
+
+1684183412 source:c:\users\dell\onedrive\bureau\puissance4_12_05\main.cpp
+	<iostream>
+	"JoueurIntelligent.h"
+
+1684182997 source:c:\users\dell\onedrive\bureau\puissance4_12_05\plateau.cpp
+	<iostream>
+	"Plateau.h"
+	<cmath>
+	<vector>
+
+1683921158 source:c:\users\dell\onedrive\bureau\puissance4_12_05 (3)\puissance4_12_05\joueur.cpp
+	<iostream>
+	"Joueur.h"
+
+1683920922 c:\users\dell\onedrive\bureau\puissance4_12_05 (3)\puissance4_12_05\joueur.h
+
+1684428977 source:c:\users\dell\onedrive\bureau\puissance4_12_05 (3)\puissance4_12_05\joueurintelligent.cpp
+	<iostream>
+	"JoueurIntelligent.h"
+	<vector>
+	<list>
+	<cmath>
+	<algorithm>
+
+1684185588 c:\users\dell\onedrive\bureau\puissance4_12_05 (3)\puissance4_12_05\joueurintelligent.h
+	"Joueur.h"
+	"Plateau.h"
+
+1683923262 c:\users\dell\onedrive\bureau\puissance4_12_05 (3)\puissance4_12_05\plateau.h
+	"Joueur.h"
+
+1684422674 source:c:\users\dell\onedrive\bureau\puissance4_12_05 (3)\puissance4_12_05\main.cpp
+	<iostream>
+	"JoueurIntelligent.h"
+
+1684428976 source:c:\users\dell\onedrive\bureau\puissance4_12_05 (3)\puissance4_12_05\plateau.cpp
+	<iostream>
+	"Plateau.h"
+	<cmath>
+	<vector>
+
